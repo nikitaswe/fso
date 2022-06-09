@@ -1,7 +1,6 @@
 # FULLSTACKOPEN.com
 
-Completed parts of fullstackopen.com course.
-[https://fullstackopen.com/en/about/](https://fullstackopen.com/en/about/)
+Completed parts of [fullstackopen.com](https://fullstackopen.com/en/about/) course.
 
 ## Part 0
 
@@ -14,11 +13,13 @@ Introduction to React
 ## Part 2
 
 Communicating with server.
+
 Deployed: [Heroku](https://salty-springs-50471.herokuapp.com/)
 
 ## Part 3
 
 Programming a server with NodeJS and Express.
+
 Deployed: [Heroku](https://salty-springs-50471.herokuapp.com/api/persons)
 
 ## Part 4
@@ -36,3 +37,7 @@ State management with Redux
 ## Part 7
 
 React router, custom hooks, styling app with CSS and webpack
+
+## Part 8
+
+GraphQL
